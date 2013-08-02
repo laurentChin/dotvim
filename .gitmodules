@@ -94,3 +94,9 @@
 [submodule "bundle/commentary"]
 	path = bundle/commentary
 	url = git@github.com:tpope/vim-commentary.git
+[submodule "bundle/airline"]
+	path = bundle/airline
+	url = https://github.com/bling/vim-airline
+[submodule "bundle/vim-unimpaired"]
+	path = bundle/vim-unimpaired
+	url = git@github.com:tpope/vim-unimpaired.git
